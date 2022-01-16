@@ -10,6 +10,7 @@ Build originally with this:
    git subtree pull --prefix=dataclasses https://github.com/kellermd/data-classes.git main
 
 To use the repository, after cloning with the intent of updating or contributing to the subtree:
+
 Initially:
 1. git remote add dataclasses https://github.com/kellermd/data-classes.git
 2. git subtree pull --prefix=dataclasses dataclasses main
